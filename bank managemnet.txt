@@ -1,4 +1,4 @@
-
+package bank_management;
 import java.util.Scanner;
 
 class Bank {
